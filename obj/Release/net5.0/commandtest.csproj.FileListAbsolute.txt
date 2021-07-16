@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\commandtest.exe
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\commandtest.deps.json
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\commandtest.runtimeconfig.json
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\commandtest.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\commandtest.dll
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\ref\commandtest.dll
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\commandtest.pdb
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.AssemblyInfo.cs
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.dll
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\ref\commandtest.dll
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.pdb
+C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\obj\Release\net5.0\commandtest.genruntimeconfig.cache
