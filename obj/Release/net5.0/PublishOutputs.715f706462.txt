@@ -1,5 +1,0 @@
-C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\publish\commandtest.exe
-C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\publish\commandtest.dll
-C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\publish\commandtest.deps.json
-C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\publish\commandtest.runtimeconfig.json
-C:\Users\Admin\Desktop\document\20210716_.NET\commandtest\bin\Release\net5.0\publish\commandtest.pdb
